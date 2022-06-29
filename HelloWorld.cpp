@@ -7,5 +7,6 @@ int main()
        << "\n";
   cout << "Change"
        << "\n";
+  cout << "second change" << endl;
   return 0;
 }
