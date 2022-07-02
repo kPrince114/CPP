@@ -324,7 +324,7 @@ int main()
         if (str[i] >= 'A' && str[i] <= 'Z')
         {
           str[i] += 32;
-        }
+
       }
       cout << str << endl;
       for (int i = 0; i < str.size(); i++)
